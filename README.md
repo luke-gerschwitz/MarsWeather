@@ -1,4 +1,4 @@
-![Logo](Images/logo.png?raw=true =250x250)
+![Logo](Images/logo.png =250x250)
 
 
 # MarsWeather

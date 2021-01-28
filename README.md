@@ -7,6 +7,6 @@ This app displays weather data for the current Sol on Mars. The data is retrieve
 
 Mars Weather makes use of the Charts(https://github.com/danielgindi/Charts) and DeviceKit (https://github.com/devicekit/DeviceKit) Swift libraries. 
 
-![Logo](Images/screenshot_1.png?raw=true)
+<img src="https://github.com/luke-gerschwitz/MarsWeather/blob/main/Images/screenshot_1.png" width="500" height="800">
 
-![Logo](Images/screenshot_2.png?raw=true)
+<img src="https://github.com/luke-gerschwitz/MarsWeather/blob/main/Images/screenshot_2.png" width="500" height="800">

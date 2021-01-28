@@ -1,4 +1,4 @@
-![Logo](Images/logo.png =250x250)
+<img src="https://github.com/luke-gerschwitz/MarsWeather/blob/main/Images/logo.png" width="200" height="200">
 
 
 # MarsWeather

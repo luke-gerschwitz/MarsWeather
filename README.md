@@ -1,3 +1,5 @@
+* Unfortunately NASA has temporarily suspended weather measurements for the InSight Rover (air pressure measurements have still continued). Hopefully it is re-enabled shortly. * 
+
 <img src="https://github.com/luke-gerschwitz/MarsWeather/blob/main/Images/logo.png" width="200" height="200">
 
 
